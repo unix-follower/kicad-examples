@@ -24,3 +24,10 @@ fab/
 # OS files
 .DS_Store
 Thumbs.db
+
+### Krita ###
+*.kra
+*.kra~
+
+### Images ###
+*.png
